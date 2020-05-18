@@ -1,0 +1,9 @@
+18th May: 
+    => Create git account
+    => Create Own Repo for Data science assignments
+    => Create a directory with today's date
+    => in side the date dir, write a test.py file, where you create a list and print it
+    => push the changes to repository
+    => create a file listProps.py where you check all the properties of a list
+    => push this to your repository
+    => Share your repo links on the group
