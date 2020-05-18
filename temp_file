@@ -1,7 +1,5 @@
 This is a temporary file to demonstrate the git pull operation.
 
-
-
 master =======> deployment pipeline ===> 
    |
    |----- branch1 (feature 1)
