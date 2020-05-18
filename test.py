@@ -6,3 +6,5 @@ for i in range(len(a)):
 a = sorted(a)
 
 print(a)
+a.reverse()
+print(a)
