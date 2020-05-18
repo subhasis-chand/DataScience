@@ -7,3 +7,20 @@ master =======> deployment pipeline ===>
    |----- branch2 (feature 2) --- (pull / review request) --
    |                                                         |
    | <------------------------------------------------------
+
+
+
+
+numpy
+matplotlib
+stats and lin algebra using numpy
+linear regression
+code lin reg
+logistic regression
+code logistic reg
+sklearn
+PCA
+svm
+k-means
+knn
+decision trees
