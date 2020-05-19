@@ -7,3 +7,13 @@
     => create a file listProps.py where you check all the properties of a list
     => push this to your repository
     => Share your repo links on the group
+
+19th May:
+    => read csv file (test.csv) using numpy
+    => remove all the rows which has a NaN value
+    => sort the items by weight
+    => find max of each col [6, 10, 200, 3.65]
+    => find max of each rows
+    => save the edited csv file
+    => generate a random numpy array of size (10, 10)
+    => rotate the array by 90 degrres clock wise
