@@ -17,3 +17,10 @@
     => save the edited csv file
     => generate a random numpy array of size (10, 10)
     => rotate the array by 90 degrres clock wise
+
+20th May:
+    => provide legends in a plot
+    => plot grids
+    => Given an equation y = 5x + 3, y = x**2 + 3 : 
+        plot the curves in two subplots from -10 to 10 with ticks 0.5
+    => How to draw circle and polygons in matplotlib
