@@ -13,6 +13,7 @@ master =======> deployment pipeline ===>
 
 numpy
 matplotlib
+reading the data, separating ip and op, normalizing data
 stats and lin algebra using numpy
 linear regression
 code lin reg
