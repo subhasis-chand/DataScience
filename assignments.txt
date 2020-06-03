@@ -24,3 +24,10 @@
     => Given an equation y = 5x + 3, y = x**2 + 3 : 
         plot the curves in two subplots from -10 to 10 with ticks 0.5
     => How to draw circle and polygons in matplotlib
+
+
+3rd June:
+    => apply logistic regression to cancer data drom wisconsin on first 10 features
+    => apply lg on the above data for all the features
+    => normalise first 10 features and apply lg
+    => compare confusion matrix and other scores for all these three catagories
